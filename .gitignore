@@ -240,6 +240,8 @@ $RECYCLE.BIN/
 # Build folder
 
 */build/*
+
+#sam staging folder
 .aws-sam/
 
 # End of https://www.gitignore.io/api/osx,linux,python,windows,pycharm,visualstudiocode
